@@ -32,7 +32,7 @@ Calculator
 
 Built a basic calculator to practice JavaScript logic
 Still working on making it prettier!
-View Code
+
 🎯 What I'm Working On Now
 Right now I'm taking an online course on JavaScript and trying to code every day. My goal is to build a weather app next!
 
