@@ -37,7 +37,7 @@ View Code
 Right now I'm taking an online course on JavaScript and trying to code every day. My goal is to build a weather app next!
 
 📫 Connect With Me
-Email: maddieburh@gmail.com
+Email: maddiburh@gmail.com
 
 💭 A Bit About Me
 I'm switching careers into tech and absolutely loving the journey! When I'm not coding, I enjoy hiking and photography.
